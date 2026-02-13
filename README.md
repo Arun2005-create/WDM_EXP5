@@ -1,5 +1,5 @@
 ### EX5 : Information Retrieval Using Boolean Model in Python
-
+### NAME: ARUN KUMAR B
 ### DATE:
 ### AIM: 
    To implement Information Retrieval Using Boolean Model in Python.
